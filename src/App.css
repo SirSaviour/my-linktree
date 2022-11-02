@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+
+/*This is the begining of my custom styles /
+
+header img {
+  height: 88px;
+width: 88px;
+left: 532px;
+top: 0px;
+border-radius: 275px;
+  
+}
+
+.App-link {
+  
+
+/* Frame 5 /
+
+
+box-sizing: border-box;
+
+/* Auto layout /
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 24px 32px;
+gap: 8px;
+
+width: 1152px;
+height: 76px;
+
+/* Gray/200 /
+
+background: #EAECF0;
+/* Gray/200 /
+
+border: 1px solid #EAECF0;
+border-radius: 8px;
+
+/* Inside auto layout /
+
+flex: none;
+order: 0;
+flex-grow: 1;
+
+}
+
+/*This is the end of my custom styles*/
